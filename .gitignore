@@ -1,0 +1,13 @@
+bin/
+obj/
+dist/
+*.user
+.vs/
+TestResults/
+publish/
+
+# Личное: ТЗ с путями и история работ с реальными данными — только локально
+Prompt-Inventory.md
+docs/ИСТОРИЯ.md
+.claude/
+*.db
